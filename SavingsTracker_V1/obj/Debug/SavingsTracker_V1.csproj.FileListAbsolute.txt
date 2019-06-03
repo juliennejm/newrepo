@@ -1,0 +1,9 @@
+C:\Users\JulienneMacapinlac\Documents\Visual Studio 2013\Projects\SavingsTracker_V1\SavingsTracker_V1\bin\Debug\SavingsTracker_V1.exe.config
+C:\Users\JulienneMacapinlac\Documents\Visual Studio 2013\Projects\SavingsTracker_V1\SavingsTracker_V1\bin\Debug\SavingsTracker_V1.exe
+C:\Users\JulienneMacapinlac\Documents\Visual Studio 2013\Projects\SavingsTracker_V1\SavingsTracker_V1\bin\Debug\SavingsTracker_V1.pdb
+C:\Users\JulienneMacapinlac\Documents\Visual Studio 2013\Projects\SavingsTracker_V1\SavingsTracker_V1\obj\Debug\SavingsTracker_V1.csprojResolveAssemblyReference.cache
+C:\Users\JulienneMacapinlac\Documents\Visual Studio 2013\Projects\SavingsTracker_V1\SavingsTracker_V1\obj\Debug\SavingsTracker_V1.Form1.resources
+C:\Users\JulienneMacapinlac\Documents\Visual Studio 2013\Projects\SavingsTracker_V1\SavingsTracker_V1\obj\Debug\SavingsTracker_V1.Properties.Resources.resources
+C:\Users\JulienneMacapinlac\Documents\Visual Studio 2013\Projects\SavingsTracker_V1\SavingsTracker_V1\obj\Debug\SavingsTracker_V1.csproj.GenerateResource.Cache
+C:\Users\JulienneMacapinlac\Documents\Visual Studio 2013\Projects\SavingsTracker_V1\SavingsTracker_V1\obj\Debug\SavingsTracker_V1.exe
+C:\Users\JulienneMacapinlac\Documents\Visual Studio 2013\Projects\SavingsTracker_V1\SavingsTracker_V1\obj\Debug\SavingsTracker_V1.pdb
